@@ -31,7 +31,7 @@ This project provides tools for:
 
 ```bash
 git clone https://github.com/yourusername/cse-financial-insights-ui.git
-cd cse-financial-insights
+cd cse-financial-insights-ui
 ```
 
 2. Backend Setup:
