@@ -30,7 +30,7 @@ This project provides tools for:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cse-financial-insights.git
+git clone https://github.com/yourusername/cse-financial-insights-ui.git
 cd cse-financial-insights
 ```
 
