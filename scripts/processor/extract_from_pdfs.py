@@ -13,7 +13,7 @@ def correct_quarter_and_year_from_filename(filename, extracted_data):
         return extracted_data
 
     # Try to extract year and date (e.g., 2023-03-31)
-    match = re.search(r"(\d{4})-(\d{2})-(\d{2})", filename)
+    match = re.search(r"(\d{4})[-_](\d{2})[-_](\d{2})", filename)
     if match:
         year, month, day = match.groups()
         if month == "03" and day == "31":
