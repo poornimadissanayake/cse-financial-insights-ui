@@ -1,0 +1,30 @@
+# Web Scraping
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+PyPDF2
+
+# Data Processing
+pandas
+numpy
+openpyxl
+
+# Dashboard
+dash
+dash-bootstrap-components
+plotly
+
+# LLM Integration
+langchain
+openai
+google-generativeai
+
+# Utilities
+python-dotenv
+tqdm
+pytest
+black
+flake8
+tabulate
+pdfplumber
