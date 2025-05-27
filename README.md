@@ -231,10 +231,6 @@ The dashboard includes a built-in chatbot that allows users to query financial d
 - Extraction accuracy depends on the quality of the PDF and the OpenAI model.
 - Further enhancements could include more advanced natural language querying based on the past memories, additional companies financial metrics.
 
-## 📃 License
-
-This repository is created for evaluation purposes as part of a technical assessment.
-
 ---
 
 **Note:** The frontend/README.md is the default Next.js template. For full setup and usage instructions, see this main README.
